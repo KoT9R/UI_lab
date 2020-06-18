@@ -3,7 +3,7 @@
 
 class IVector;
 #include "ILogger.h"
-#include<stddef.h>
+#include <stddef.h>
 class ICompact
 {
 public:

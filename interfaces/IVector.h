@@ -5,11 +5,6 @@
 #include<stddef.h>
 #include "ILogger.h"
 
-
-
-
-
-
 class IVector {
 public:
     enum class NORM {
